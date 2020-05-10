@@ -1,0 +1,9 @@
+[deps]
+Augmentor = "02898b10-1f73-11ea-317c-6393d7073e15"
+NaiveGAflux = "81ede08e-ab29-11e9-16d3-79edd30a1d76"
+NaiveNASflux = "85610aed-7d32-5e57-bb50-4c2e1c9e7997"
+ONNXmutable = "cf2a63a0-f8ae-421c-82b7-306ecfceaf66"
+PaddedViews = "5432bcbf-9aad-5242-b902-cca2824c8663"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
