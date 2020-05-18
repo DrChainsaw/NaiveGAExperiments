@@ -1,5 +1,6 @@
 [deps]
 Augmentor = "02898b10-1f73-11ea-317c-6393d7073e15"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
 NaiveGAflux = "81ede08e-ab29-11e9-16d3-79edd30a1d76"
 NaiveNASflux = "85610aed-7d32-5e57-bb50-4c2e1c9e7997"
 ONNXmutable = "cf2a63a0-f8ae-421c-82b7-306ecfceaf66"
