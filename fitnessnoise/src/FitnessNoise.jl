@@ -17,8 +17,6 @@ fitness_true(c::AbstractCandidate) = fitness_true(base(c))
 nvar(c::AbstractCandidate) = nvar(base(c))
 speed(c::AbstractCandidate) = speed(base(c))
 
-ff(x) = 12
-
 struct Cand <: AbstractCandidate
     fitness::Float64
     gen::Int
